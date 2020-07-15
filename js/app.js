@@ -1,5 +1,5 @@
 const cotizador = new API(
-  "GETYOUROWNKEY"
+  "52d5f3e0d881b3f43364e8e01dc4406a63b340547490613099b99c0db7899d52"
 );
 
 const ui = new Interfaz();
